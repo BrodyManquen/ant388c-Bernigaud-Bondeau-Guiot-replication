@@ -1,0 +1,20 @@
+---
+title: "Bernigaud, Bondeau, and Guiot (2021) Replication"
+format: html
+---
+
+# Begin
+
+# Introduction & Framing
+
+# Data Analysis & Visualization Replication
+
+# Discussion & Reflection
+
+## Images Template
+
+```{r}
+#| echo: false
+#| out-width: "##%"
+knitr::include_graphics("images/fig1.jpg")
+```
