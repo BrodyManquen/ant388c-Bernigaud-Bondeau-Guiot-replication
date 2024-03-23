@@ -17,4 +17,7 @@ format: html
 #| echo: false
 #| out-width: "##%"
 knitr::include_graphics("images/fig1.jpg")
+knitr::include_graphics("images/fig2.jpg")
+knitr::include_graphics("images/fig3.jpg")
+knitr::include_graphics("images/fig4.jpg")
 ```
